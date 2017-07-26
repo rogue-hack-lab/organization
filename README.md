@@ -1,4 +1,4 @@
-promotional
+RHL Organizational Documents
 ===========
 
-Various RHL promotional materials; graphics, flyers, swag art files, etc..
+Draft/un-adopted documents located in [PR #1](https://github.com/rogue-hack-lab/organization/pull/1)
