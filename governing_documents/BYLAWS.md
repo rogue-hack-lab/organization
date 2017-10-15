@@ -31,11 +31,11 @@ The activities and affairs of this corporation shall be overseen by the Board of
 ## Section 2.2 Vacancies of Office
 - A Director may resign by giving written notice to any member of the Board of Directors.
 - A Director is also deemed to have resigned or is required to resign under the following provisions:
-## Being absent from three Board meetings consecutively without the approval of the Board;
-## Having failed to uphold a signed statement of intent;
-## Removal by resolution in a general membership meeting, in which there is a quorum of two-thirds of the voting members;
-## Becoming of unsound mind; or
-## Death.
+ - Being absent from three Board meetings consecutively without the approval of the Board;
+ - Having failed to uphold a signed statement of intent;
+ - Removal by resolution in a general membership meeting, in which there is a quorum of two-thirds of the voting members;
+ - Becoming of unsound mind; or
+ - Death.
 
 ## Section 2.3 Annual Meeting
 The annual meeting of the Board of Directors shall be conducted at a place and time set by resolution of the Board of Directors.
